@@ -85,6 +85,16 @@ AI-based anomaly detection
 Multi-room IoT system
 
 
-👨‍💻 Author
+## 📸 Project Screenshots
 
-Snehal Jagtap
+### Smart Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Live Graph
+![Graph](screenshots/graph.png)
+
+### Alerts System
+![Alerts](screenshots/alert.png)
+
+### Control Panel
+![Control](screenshots/control.png)
